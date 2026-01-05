@@ -1,0 +1,5 @@
+{
+  "name": "Jan Report - Admin Dashboard",
+  "description": "An administrative portal for managing citizen reports on public issues like electricity, roads, and water. Features issue verification, AI-powered analysis, and status tracking.",
+  "requestFramePermissions": []
+}
